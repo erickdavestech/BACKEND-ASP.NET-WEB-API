@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4ADE278A-B9C0-4D73-BEC5-2813981ABC1D}|BACKEND-ASP.NET-WEB-API.csproj|c:\\users\\x\\backend-asp.net-web-api\\apidbcotext\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ADE278A-B9C0-4D73-BEC5-2813981ABC1D}|BACKEND-ASP.NET-WEB-API.csproj|solutionrelative:apidbcotext\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\log_branch_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:log_branch_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ADE278A-B9C0-4D73-BEC5-2813981ABC1D}|BACKEND-ASP.NET-WEB-API.csproj|c:\\users\\x\\backend-asp.net-web-api\\log_branch_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{4ADE278A-B9C0-4D73-BEC5-2813981ABC1D}|BACKEND-ASP.NET-WEB-API.csproj|solutionrelative:log_branch_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\Models\\Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "log_branch_guide.md",
               "DocumentMoniker": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\log_branch_guide.md",
               "RelativeDocumentMoniker": "log_branch_guide.md",
               "ToolTip": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\log_branch_guide.md",
               "RelativeToolTip": "log_branch_guide.md",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAATAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-03T21:47:30.161Z",
+              "WhenOpened": "2024-08-03T22:43:24.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApiDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\ApiDbCotext\\ApiDbContext.cs",
-              "RelativeDocumentMoniker": "ApiDbCotext\\ApiDbContext.cs",
-              "ToolTip": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\ApiDbCotext\\ApiDbContext.cs",
-              "RelativeToolTip": "ApiDbCotext\\ApiDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T21:33:41.295Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T22:12:13.675Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:09:01.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:09:00.52Z"
             }
           ]
         }

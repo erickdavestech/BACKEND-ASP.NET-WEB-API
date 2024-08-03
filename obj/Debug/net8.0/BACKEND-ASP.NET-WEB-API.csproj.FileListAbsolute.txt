@@ -1,0 +1,7 @@
+C:\Users\x\BACKEND-ASP.NET-WEB-API\obj\Debug\net8.0\BACKEND-ASP.NET-WEB-API.csproj.AssemblyReference.cache
+C:\Users\x\BACKEND-ASP.NET-WEB-API\obj\Debug\net8.0\BACKEND-ASP.NET-WEB-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\BACKEND-ASP.NET-WEB-API\obj\Debug\net8.0\BACKEND-ASP.NET-WEB-API.AssemblyInfoInputs.cache
+C:\Users\x\BACKEND-ASP.NET-WEB-API\obj\Debug\net8.0\BACKEND-ASP.NET-WEB-API.AssemblyInfo.cs
+C:\Users\x\BACKEND-ASP.NET-WEB-API\obj\Debug\net8.0\BACKEND-ASP.NET-WEB-API.csproj.CoreCompileInputs.cache
+C:\Users\x\BACKEND-ASP.NET-WEB-API\obj\Debug\net8.0\BACKEND-ASP.NET-WEB-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\x\BACKEND-ASP.NET-WEB-API\obj\Debug\net8.0\BACKEND-ASP.NET-WEB-API.sourcelink.json
