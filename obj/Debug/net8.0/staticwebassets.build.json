@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KbJsYAToGHBDMZiQigRTR6+xz0H8dtPuo1Hzs1Pgixc=",
+  "Source": "BACKEND-ASP.NET-WEB-API",
+  "BasePath": "_content/BACKEND-ASP.NET-WEB-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
