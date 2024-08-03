@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADE278A-B9C0-4D73-BEC5-2813981ABC1D}|BACKEND-ASP.NET-WEB-API.csproj|c:\\users\\x\\backend-asp.net-web-api\\log_branch_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4ADE278A-B9C0-4D73-BEC5-2813981ABC1D}|BACKEND-ASP.NET-WEB-API.csproj|solutionrelative:log_branch_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "log_branch_guide.md",
+              "DocumentMoniker": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\log_branch_guide.md",
+              "RelativeDocumentMoniker": "log_branch_guide.md",
+              "ToolTip": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\log_branch_guide.md",
+              "RelativeToolTip": "log_branch_guide.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-03T21:08:17.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
