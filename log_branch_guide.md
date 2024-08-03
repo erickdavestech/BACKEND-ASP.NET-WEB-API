@@ -9,7 +9,11 @@ TODO: ! Install necessary packages
 -Microsoft.EntityFrameworkCore.Tools
 -Microsoft.VisualStudio.Web.CodeGeneration.Core
 -Swashbuckle.AspNetCore.Swagger (Updated)
-# Branch: _ApiDbCotext_
-TODO!: ApiDbCotext 
+# Branch: _03_Models_Users_
+TODO: ! Create Models folder and create Users class
+# Branch: _04_ApiDbContext_
+TODO!: Create ApiDbContext Class with Users table representation.
+TODO!: Service for ApiDbContext
+TODO!: Connection to The SqlServer
 
 
