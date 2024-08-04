@@ -1,49 +1,43 @@
+# API para Agregar, Leer, Actualizar y Eliminar Usuarios
 
-#API PARA AGREGAR USER,
-READ USER, 
-UPDATE USER 
-DELETE 
+**Flutter App Pendiente.**
 
-Flutter App Pending. 
+## Branch: `00_stock`
+**TODO:**
+- [ ] Subir al directorio
 
-#Branch: 00_stock
+## Branch: `01_Deleting`
+**TODO:**
+- [ ] Eliminar `WeatherForecast.cs` del root
+- [ ] Eliminar `WeatherForecastController.cs` del folder Controllers
 
-TODO: ! upload to directory
+## Branch: `02_Installing`
+**TODO:**
+- [ ] Instalar los paquetes necesarios:
+  - `Microsoft.EntityFrameworkCore`
+  - `Microsoft.EntityFrameworkCore.SqlServer`
+  - `Microsoft.EntityFrameworkCore.Tools`
+  - `Microsoft.VisualStudio.Web.CodeGeneration.Core`
+  - `Swashbuckle.AspNetCore.Swagger` (Actualizado)
 
-#Branch: 01_Deleting
+## Branch: `03_Models_Users`
+**TODO:**
+- [ ] Crear el folder `Models` y la clase `Users`
 
-TODO: ! delete WeatherForecast.cs from root, delete from Controllers folder the WeatherForecastController.cs file
+## Branch: `04_ApiDbContext`
+**TODO:**
+- [ ] Crear la clase `ApiDbContext` con la representación de la tabla `Users`
+- [ ] Servicio para `ApiDbContext`
+- [ ] Conexión a `SqlServer`
+- [ ] Cambiar el constructor de privado a público
 
-#Branch: 02_Installing
+## Branch: `05_Controllers`
+**TODO:**
+- [ ] Crear `UsersController.cs` en el folder `Controllers` usando el asistente
+  - Seleccionar "Add New Scaffolded Item"
+  - Seleccionar "API Controller with using Entity Framework"
 
-TODO: ! Install necessary packages
-
--Microsoft.EntityFrameworkCore
-
--Microsoft.EntityFrameworkCore.SqlServer
-
--Microsoft.EntityFrameworkCore.Tools
-
--Microsoft.VisualStudio.Web.CodeGeneration.Core 
-
--Swashbuckle.AspNetCore.Swagger (Updated)
-
-#Branch: 03_Models_Users
-
-TODO: ! Create Models folder and create Users class
-
-#Branch: 04_ApiDbContext
-
-TODO!: Create ApiDbContext Class with Users table representation. TODO!: Service for ApiDbContext TODO!: Connection to The SqlServer TODO!: Fix Constructor From Private to Public
-
-#Branch: 05_Controllers
-
-TODO!: Create UsersController.cs in Controllers Folder Using Wizard -> Add New Scaffolded Item API Controller with using Entity Framework.
-
-#Branch: 06_Migrations
-
-TODO!: Add-Migration "Initial migration" TODO!: Update database
-
-
-
-
+## Branch: `06_Migrations`
+**TODO:**
+- [ ] Ejecutar `Add-Migration "Initial migration"`
+- [ ] Ejecutar `Update-Database`
