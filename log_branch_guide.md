@@ -20,6 +20,7 @@ TODO!: Fix Constructor From Private to Public
 TODO!: Create UsersController.cs in Controllers Folder Using Wizard -> Add New Scaffolded Item API Controller with using Entity Framework.
 # Branch: _06_Migrations_
 TODO!: Add-Migration "Initial migration"
+TODO!: Update database
 
 
 
