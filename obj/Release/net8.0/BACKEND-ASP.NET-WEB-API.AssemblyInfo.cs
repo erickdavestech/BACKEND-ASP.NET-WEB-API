@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BACKEND-ASP.NET-WEB-API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5e3c4d5cd34681e4a1220db24483514eafa63c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f67565d965e22cc08a0cad9b85ee4717b528668")]
 [assembly: System.Reflection.AssemblyProductAttribute("BACKEND-ASP.NET-WEB-API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BACKEND-ASP.NET-WEB-API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
