@@ -2,14 +2,15 @@
 
 namespace BACKEND_ASP.NET_WEB_API.Models
 {
-    public class Users
+    public class User
     {
         [Key]
-        public int userId{ get; set; }
+        public int Id{ get; set; }
         [Required]
-        public string name { get; set; } = "";
+        public string? Name { get; set; }
         [Required]
-        public string address { get; set; } = "";
+        [EmailAddress]
+        public string? Email { get; set; }
     }
 
 }
