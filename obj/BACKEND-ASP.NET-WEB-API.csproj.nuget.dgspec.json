@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\BACKEND-ASP.NET-WEB-API.csproj": {}
+    "C:\\Users\\Manases\\Desktop\\dotnet\\BACKEND-ASP.NET-WEB-API\\BACKEND-ASP.NET-WEB-API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\BACKEND-ASP.NET-WEB-API.csproj": {
+    "C:\\Users\\Manases\\Desktop\\dotnet\\BACKEND-ASP.NET-WEB-API\\BACKEND-ASP.NET-WEB-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\BACKEND-ASP.NET-WEB-API.csproj",
+        "projectUniqueName": "C:\\Users\\Manases\\Desktop\\dotnet\\BACKEND-ASP.NET-WEB-API\\BACKEND-ASP.NET-WEB-API.csproj",
         "projectName": "BACKEND-ASP.NET-WEB-API",
-        "projectPath": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\BACKEND-ASP.NET-WEB-API.csproj",
-        "packagesPath": "C:\\Users\\x\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\x\\BACKEND-ASP.NET-WEB-API\\obj\\",
+        "projectPath": "C:\\Users\\Manases\\Desktop\\dotnet\\BACKEND-ASP.NET-WEB-API\\BACKEND-ASP.NET-WEB-API.csproj",
+        "packagesPath": "C:\\Users\\Manases\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manases\\Desktop\\dotnet\\BACKEND-ASP.NET-WEB-API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\x\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Manases\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +49,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -96,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

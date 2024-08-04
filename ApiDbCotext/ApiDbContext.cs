@@ -16,6 +16,6 @@ namespace BACKEND_ASP.NET_WEB_API.Models
         // Fix Making  public ApiDbContext(DbContextOptions option) : base(option) {}
        public ApiDbContext(DbContextOptions option) : base(option) {}
         // Representa nuestra tabla en la base de datos
-        public DbSet<Users> users { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }
